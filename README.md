@@ -1,23 +1,22 @@
 # apnaGarage
 
-Project Title: TechTune Motors Website Development
+Project Title: apnaGarage Website Development
 Project Description (Development Perspective):
 Objective:
-The primary goal of the TechTune Motors Website Development project is to create
+The primary goal of the apnaGarage Website Development project is to create
 a robust, user-friendly, and visually appealing website that effectively represents the
 automotive garage's services, engages customers, and streamlines the appointment
 booking process. From a development perspective, this project involves several key
 components and considerations.
-Technical Requirements:
+ Implementing Technical Requirements:
 1. Responsive Web Design: Develop a responsive website that adapts seamlessly to
 various screen sizes and devices, ensuring an optimal user experience for both
 desktop and mobile users.
 2. Content Management System (CMS): Implement a CMS, such as WordPress, to
-facilitate easy content updates, enabling TechTune Motors' staff to manage and
+facilitate easy content updates, enabling apnaGarage' staff to manage and
 maintain the website efficiently.
 3. Front-End Development:
-- Create an attractive and intuitive user interface (UI) that aligns with TechTune
-Motors' branding guidelines.
+- Create an attractive and intuitive user interface (UI) that aligns with apnaGarage' branding guidelines.
 - Ensure fast-loading web pages by optimizing images and using efficient coding
 practices.
 - Implement a clear and user-friendly navigation structure for easy access to key
@@ -36,13 +35,13 @@ browsers and devices to ensure consistent functionality and appearance.
 ensure smooth user interactions, even during high traffic periods.
 3. Security Testing: Perform security assessments and vulnerability scans to identify
 and address potential security risks.
-4. User Acceptance Testing (UAT): Involve TechTune Motors' team in UAT to validate
+4. User Acceptance Testing (UAT): Involve apnaGarage' team in UAT to validate
 that all features and functionalities meet their expectations and requirements.
 Timeline:
-The development phase of the TechTune Motors Website is expected to span [insert
+The development phase of the apnaGarage Website is expected to span [insert
 timeframe] from project initiation to deployment.
 Conclusion (Development Perspective):
-The TechTune Motors Website Development project involves a comprehensive
+The apnaGarage Website Development project involves a comprehensive
 approach to create a high-quality website that aligns with the client's goals and
 requirements. By focusing on responsive design, intuitive user interfaces, robust
 back-end infrastructure, security, and SEO best practices, we aim to deliver a
