@@ -1,9 +1,9 @@
-# apnaGarage
+# TechTune Motors
 
-Project Title: apnaGarage Website Development
+Project Title: Techtune Motors Website Development
 Project Description (Development Perspective):
 Objective:
-The primary goal of the apnaGarage Website Development project is to create
+The primary goal of the Techtune Motors Website Development project is to create
 a robust, user-friendly, and visually appealing website that effectively represents the
 automotive garage's services, engages customers, and streamlines the appointment
 booking process. From a development perspective, this project involves several key
