@@ -9,7 +9,7 @@ automotive garage's services, engages customers, and streamlines the appointment
 booking process. From a development perspective, this project involves several key
 components and considerations.
  Implementing Technical Requirements:
-1. Responsive Web Design: Develop a responsive website that adapts seamlessly to
+1. Responsive Web Design: Developed a responsive website that adapts seamlessly to
 various screen sizes and devices, ensuring an optimal user experience for both
 desktop and mobile users.
 2. Content Management System (CMS): Implement a CMS, such as WordPress, to
