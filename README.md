@@ -12,34 +12,33 @@ components and considerations.
 1. Responsive Web Design: Developed a responsive website that adapts seamlessly to
 various screen sizes and devices, ensuring an optimal user experience for both
 desktop and mobile users.
-2. Content Management System (CMS): Implement a CMS, such as WordPress, to
+2. Content Management System (CMS): Implemented a CMS, such as WordPress, to
 facilitate easy content updates, enabling apnaGarage' staff to manage and
 maintain the website efficiently.
 3. Front-End Development:
-- Create an attractive and intuitive user interface (UI) that aligns with apnaGarage' branding guidelines.
-- Ensure fast-loading web pages by optimizing images and using efficient coding
+- Created an attractive and intuitive user interface (UI) that aligns with apnaGarage' branding guidelines.
+- Ensuring fast-loading web pages by optimizing images and using efficient coding
 practices.
-- Implement a clear and user-friendly navigation structure for easy access to key
+- Implemented a clear and user-friendly navigation structure for easy access to key
 website sections.
 4. Back-End Development:
-- Develop a secure and scalable back-end infrastructure to handle user data,
+- Developed a secure and scalable back-end infrastructure to handle user data,
 appointment bookings, and customer interactions.
-- Integrate a secure appointment booking system that allows users to select
+- Integrated a secure appointment booking system that allows users to select
 services, choose appointment slots, and receive confirmation emails.
-- Set up a database to store customer information securely and ensure GDPR
+- Created a database to store customer information securely and ensure GDPR
 compliance if applicable.
 Testing and Quality Assurance:
 1. Cross-Browser and Cross-Device Testing: Thoroughly test the website on multiple
 browsers and devices to ensure consistent functionality and appearance.
-2. Performance Testing: Conduct performance testing to optimize loading times and
+2. Performance Testing: Conducted performance testing to optimize loading times and
 ensure smooth user interactions, even during high traffic periods.
-3. Security Testing: Perform security assessments and vulnerability scans to identify
+3. Security Testing: Performed security assessments and vulnerability scans to identify
 and address potential security risks.
-4. User Acceptance Testing (UAT): Involve apnaGarage' team in UAT to validate
+4. User Acceptance Testing (UAT): Involved apnaGarage' team in UAT to validate
 that all features and functionalities meet their expectations and requirements.
 Timeline:
-The development phase of the apnaGarage Website is expected to span [insert
-timeframe] from project initiation to deployment.
+The development phase of the apnaGarage Website is expected to span from project initiation to deployment.
 Conclusion (Development Perspective):
 The apnaGarage Website Development project involves a comprehensive
 approach to create a high-quality website that aligns with the client's goals and
