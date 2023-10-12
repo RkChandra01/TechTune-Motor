@@ -29,7 +29,7 @@ services, choose appointment slots, and receive confirmation emails.
 - Created a database to store customer information securely and ensure GDPR
 compliance if applicable.
 Testing and Quality Assurance:
-1. Cross-Browser and Cross-Device Testing: Thoroughly test the website on multiple
+1. Cross-Browser and Cross-Device Testing: Thoroughly tested the website on multiple
 browsers and devices to ensure consistent functionality and appearance.
 2. Performance Testing: Conducted performance testing to optimize loading times and
 ensure smooth user interactions, even during high traffic periods.
